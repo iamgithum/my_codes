@@ -3,7 +3,7 @@
     input{
         border-radius:3px;
         padding:3px;
-        border-color:#6495ed;                   H@ck3r3@rth-369     H@ck3Rr@nk-369
+        border-color:#6495ed;                 
         margin-left: 6px;
     }
     button{
